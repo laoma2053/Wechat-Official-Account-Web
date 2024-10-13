@@ -1,6 +1,6 @@
-const oa_name = "张洪Heo";
-const oa_description = "分享设计与科技生活";
-const web_beian = "京ICP备19051325号-2";
+const oa_name = "副业有了方向";
+const oa_description = "副业人免费交流社区";
+const web_beian = "蜀ICP备2024088058号";
 
 function replaceText(elementId, newText) {
   var element = document.getElementById(elementId);
